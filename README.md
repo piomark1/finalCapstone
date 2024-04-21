@@ -18,9 +18,9 @@ If You do not use any IDE such as VS Code, You can download it from here:
 
 <https://code.visualstudio.com/download>
 
-Install downloaded and suitable for Your system platform version of VS Code.
+Install downloaded and suitable version of VS Code for Your system platform.
 
-Run VS Code and open downloaded from this repo 'sentiment_analysis.py'.
+Run VS Code and open downloaded 'sentiment_analysis.py' from this repo.
 
 If everything was done by You propperly, You should see similar output:
 
